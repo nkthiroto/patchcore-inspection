@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../anaconda3/envs/PatchCore"
+		},
+		{
+			"name": "patchcore-inspection",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

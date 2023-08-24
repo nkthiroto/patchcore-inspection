@@ -1,0 +1,65 @@
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.6
+cmake==3.27.0
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1689373676338/work
+cycler==0.11.0
+faiss-cpu==1.7.4
+filelock==3.12.2
+fonttools==4.41.1
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+idna @ file:///work/ci_py311/idna_1676822698822/work
+imageio==2.31.1
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+joblib==1.3.1
+kiwisolver==1.4.4
+lazy_loader==0.3
+lit==16.0.6
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.2.1
+munch==4.0.0
+networkx @ file:///croot/networkx_1678964333703/work
+numpy @ file:///croot/numpy_and_numpy_base_1687466208449/work
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+packaging==23.1
+patchcore @ git+https://github.com/amazon-science/patchcore-inspection.git@fcaa92f124fb1ad74a7acf56726decd4b27cbcad
+Pillow==10.0.0
+pretrainedmodels==0.7.4
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.0.9
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.8.2
+PyWavelets==1.4.1
+requests @ file:///croot/requests_1690400202158/work
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy==1.11.1
+six==1.16.0
+sympy==1.12
+threadpoolctl==3.2.0
+tifffile==2023.7.18
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.65.0
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+urllib3 @ file:///croot/urllib3_1686163155763/work

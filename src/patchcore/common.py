@@ -21,6 +21,7 @@ class FaissNN(object):
         """
         faiss.omp_set_num_threads(num_workers)
         self.on_gpu = on_gpu
+        #self.on_gpu = False
         self.search_index = None
 
     def _gpu_cloner_options(self):
